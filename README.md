@@ -5,7 +5,6 @@
 ![Lua](https://img.shields.io/badge/Lua-5.1+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 **A lightweight, fast, and cross-platform CLI tool written in Lua for analyzing HTTP security headers, cookies, and redirect chains. Outputs detailed reports in both text and JSON formats.**
